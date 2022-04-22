@@ -15,4 +15,6 @@ This assignment served as an introduction to tomography with some basic analysis
 This assignment introduced dictionary learning and covered some basic dictionary manipulations. We also touched upon Non-Negative Factorisation and Non-Negative Sparse Coding and its application in Poisson denoising.
 
 ## Assignment 5 - Statistics of Natural Images and Matrix Recovery
-The last assigmnent covered some results in 'Low-Rank Modeling and Its Applications in Image Analysis', 'Exact Matrix Completion via Convex Optimization' and 'Guaranteed Minimum-Rank Solutions of Linear Matrix Equations via Nuclear Norm Minimization' and 'User assisted separation of reflections from a single image using a sparsity prior'
+The last assigmnent covered some results in 'Low-Rank Modeling and Its Applications in Image Analysis', 'Exact Matrix Completion via Convex Optimization', 'Guaranteed Minimum-Rank Solutions of Linear Matrix Equations via Nuclear Norm Minimization' and 'User assisted separation of reflections from a single image using a sparsity prior'
+
+---
